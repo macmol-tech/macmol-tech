@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**macmol-tech/macmol-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let’s decode me in Python:
 
-Here are some ideas to get you started:
+```python
+human = {
+    'name': 'Lukasz Molenda',
+    'experience': '9+ years in Apple Device Management',
+    'specialty': 'Jamf Pro Expert & Automation Engineer',
+    'certifications': ['Jamf', 'Apple', 'Github', 'Android Enterprise'],
+    'currently_learning': ['AWS', 'Terraform', 'Kubernetes', 'DevOps Practices'],
+    'goal': 'Transition into a Future DevOps Engineer',
+    'loves': ['automation', 'clean code', 'problem solving', 'coffee'],
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find any of my projects helpful, feel free to support me by buying a coffee ☕ – it helps fuel the automation magic.
+https://buymeacoffee.com/macmol.tech
